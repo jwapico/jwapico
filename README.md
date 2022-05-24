@@ -7,7 +7,6 @@
 - 🥅 2022 Goals: Get involved in more open source projects!
 - 🏫 I'm attending Colorado School of Mines for computer science
 - 🐕 Fun fact: I have two dogs, Pico and Scoop! Pico is my GitHub profile picture but if you want to see Scoop you have to go visit my LinkedIn! - especially if you're a recruiter (:
-- 😻 Ask me what projects I'm working on!
 
 ### Connect with me:
 
